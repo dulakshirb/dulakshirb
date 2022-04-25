@@ -20,9 +20,6 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/dulakshirb#gh-dark-mode-only)
 
 
-<br />
-<br />
-
 ---
 
 <details>
