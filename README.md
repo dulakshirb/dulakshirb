@@ -1,6 +1,6 @@
 # Hi there, I'm Dulakshi 👋 
 
-## I'm a Programmer and App Developer!!
+## I'm a Full-Stack Web and App Developer.
 
 - 🎓 Software Engineer
 - 🌱 I’m currently learning everything 🤣
