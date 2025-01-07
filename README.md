@@ -5,7 +5,7 @@
 - 🎓 Software Engineer
 - 🌱 I’m currently learning everything 🤣
 - 👩‍💻 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and watch movies
 
 ### Connect with me:
@@ -16,8 +16,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/dulakshirb#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/dulakshirb#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/dulakshidev#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/dulakshidev#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/dulakshirb#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/dulakshirb#gh-dark-mode-only)
 
 <br>
 ---
